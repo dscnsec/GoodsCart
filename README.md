@@ -1,6 +1,5 @@
-<p align="center">
- <h2>Repository for Hacktoberfest 2022 from GDSC NSEC (Web Team)</h2>
-</p>
+<h2 align="center">Repository for Hacktoberfest 2022 from GDSC NSEC (Web Team)</h2>
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/67837886/194577525-0c72e9b0-a620-47b1-a5c8-31d7c374c4c6.png" />
