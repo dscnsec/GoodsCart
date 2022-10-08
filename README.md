@@ -15,6 +15,6 @@ Welcome Everyone! This is a beginner friendly Ecommerce project for the folks wh
 
 ## How To Contribute
 - Firstly, fork this repository[https://github.com/dscnsec/ecommerce-frontend/fork].
-- Then clone your forked repo in your localhost.
+- Then `git clone` your forked repo in your localhost.
 - After that, make valid changes and commit it in your forked repo.
 - Now open a pull request from your forked repo to merge the changes in our main repo
