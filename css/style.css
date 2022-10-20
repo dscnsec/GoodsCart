@@ -189,6 +189,15 @@ textarea.input {
   height: 40px;
 }
 
+.input-select:hover {
+  background: #c9cbd0;
+  cursor: pointer;
+}
+
+.input:hover {
+  background: #c9cbd0;
+}
+
 /*-- checkbox & radio input --*/
 
 .input-radio, .input-checkbox {
